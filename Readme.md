@@ -6,8 +6,8 @@ This is a solution to the exercises in part 0 (first) of the Fullstack Open cour
 
 - [Overview](#overview)
 - [Exercises](#exercises)
-    -[0.1 HTML](#0.1-html)
-    -[0.2 CSSs](#0.2-css)
+    - [0.1 HTML](#0.1-html)
+    - [0.2 CSSs](#0.2-css)
   - [0.3 HTML Forms](#0.3-html-forms)
   - [0.4 New note diagram](#0.4-new-note-diagram)
   - [0.5 Single page application diagram](#0.5-single-page-application-diagram)
