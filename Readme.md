@@ -6,19 +6,18 @@ This is a solution to the exercises in part 0 (first) of the Fullstack Open cour
 
 - [Overview](#overview)
 - [Exercises](#exercises)
-  ## HTML Basics
-  ## CSS Styling
-  ## HTML Forms
-  ## Diagram: New Note
-  ## Diagram: Single Page Application
-  ## Additional Notes on Single Page Application
+    -[0.1 HTML](#0.1-html)
+    -[0.2 CSSs](#0.2-css)
+  - [0.3 HTML Forms](#0.3-html-forms)
+  - [0.4 New note diagram](#0.4-new-note-diagram)
+  - [0.5 Single page application diagram](#0.5-single-page-application-diagram)
+  - [0.6 New note on single page application diagram](#0.6-new-note-on-single-page-application-diagram)
 - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-
 
 ## Overview
 
